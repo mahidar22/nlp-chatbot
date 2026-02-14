@@ -1,9 +1,9 @@
 import os
 from flask import Flask, render_template, request, jsonify
-from nlp_bot import NLPChatbot  # or rule_bot import RuleBasedChatbot
+from rule_bot import RuleBasedChatbot
 
 app = Flask(__name__)
-bot = NLPChatbot("faqs.json")
+bot = RuleBasedChatbot("faqs.json")
 
 @app.route("/")
 def home():
