@@ -1,0 +1,102 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "answer": "To reset your password, click on 'Forgot Password' on the login page. Enter your email address and we'll send you a reset link. Follow the instructions in the email to create a new password.",
+    "category": "account"
+  },
+  {
+    "question": "What are your business hours?",
+    "answer": "We are open Monday to Friday, 9:00 AM to 6:00 PM EST. We are closed on weekends and major holidays. For urgent matters outside business hours, please email support@example.com.",
+    "category": "general"
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can reach our customer support team via email at support@example.com or call us at 1-800-SUPPORT (1-800-787-7678). Live chat is available on our website during business hours.",
+    "category": "support"
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "We offer a 30-day money-back guarantee. If you're not satisfied with your purchase, you can return it within 30 days for a full refund. Items must be in original condition with all packaging.",
+    "category": "returns"
+  },
+  {
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 5-7 business days. Express shipping (2-3 business days) and overnight shipping are available at checkout for an additional fee. International shipping times vary by destination.",
+    "category": "shipping"
+  },
+  {
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 100 countries worldwide. Shipping costs and delivery times vary by destination. International orders may be subject to customs fees and import taxes.",
+    "category": "shipping"
+  },
+  {
+    "question": "How do I track my order?",
+    "answer": "Once your order ships, you'll receive a tracking number via email. You can track your package by entering the tracking number on our website or the carrier's website. Tracking information is usually available within 24 hours of shipment.",
+    "category": "orders"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express, Discover), PayPal, Apple Pay, Google Pay, and bank transfers. All payments are processed securely.",
+    "category": "billing"
+  },
+  {
+    "question": "Is my personal information secure?",
+    "answer": "Yes, we take security very seriously. We use industry-standard SSL encryption to protect your data. We never store your credit card information and comply with all data protection regulations including GDPR.",
+    "category": "security"
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Click the 'Sign Up' button on our homepage. Enter your email, create a password, and fill in your basic information. You'll receive a confirmation email - click the link to activate your account.",
+    "category": "account"
+  },
+  {
+    "question": "Can I change my shipping address after ordering?",
+    "answer": "If your order hasn't shipped yet, you can update the shipping address in your account settings or by contacting customer support immediately. Once shipped, we cannot modify the address.",
+    "category": "orders"
+  },
+  {
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, we offer complimentary gift wrapping for all orders. You can select this option at checkout. We also include a personalized gift message if you'd like.",
+    "category": "services"
+  },
+  {
+    "question": "What if I receive a damaged item?",
+    "answer": "We apologize if you receive a damaged item. Please contact us within 48 hours with photos of the damage. We'll arrange for a replacement or full refund, including return shipping costs.",
+    "category": "returns"
+  },
+  {
+    "question": "How do I cancel my order?",
+    "answer": "To cancel an order, log into your account and go to 'Order History'. If the order status is 'Processing', you can cancel it directly. If it's already shipped, you'll need to return it once received.",
+    "category": "orders"
+  },
+  {
+    "question": "Do you have a loyalty program?",
+    "answer": "Yes! Our Rewards Program lets you earn points on every purchase. Points can be redeemed for discounts on future orders. Sign up is free and you get 100 bonus points just for joining.",
+    "category": "rewards"
+  },
+  {
+    "question": "What is your price matching policy?",
+    "answer": "We match prices from authorized retailers. If you find a lower price within 14 days of purchase, contact us with proof and we'll refund the difference. Applies to identical items in stock.",
+    "category": "pricing"
+  },
+  {
+    "question": "Can I use multiple discount codes?",
+    "answer": "Only one discount code can be used per order. The system will automatically apply the code that gives you the best discount. Promotional codes cannot be combined with other offers.",
+    "category": "promotions"
+  },
+  {
+    "question": "How do I update my email preferences?",
+    "answer": "Log into your account and go to 'Settings' > 'Email Preferences'. You can choose which types of emails you want to receive or unsubscribe from all marketing emails. You'll still receive order confirmations.",
+    "category": "account"
+  },
+  {
+    "question": "What are the system requirements?",
+    "answer": "Our service works on all modern web browsers (Chrome, Firefox, Safari, Edge). For mobile, we support iOS 12+ and Android 8+. You'll need a stable internet connection.",
+    "category": "technical"
+  },
+  {
+    "question": "Is there a mobile app?",
+    "answer": "Yes! Our mobile app is available for free on the App Store and Google Play. The app offers all website features plus exclusive mobile-only deals and push notifications for orders.",
+    "category": "mobile"
+  }
+]
